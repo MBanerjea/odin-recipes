@@ -17,12 +17,14 @@
 }
 
 .ol {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   background-color: beige;
   color: brown;
   font-weight: bold;
 }
 
 .ul {
+  font-family: cursive;
   background-color: #b2c4e6;
   text-align: center;
   color: red;
