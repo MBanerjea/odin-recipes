@@ -1,3 +1,29 @@
 .heading {
-  background-color: greenyellow;
+  background-color: #d3fb96;
+  text-align: center;
+  color: blueviolet;
+}
+
+#image {
+  width: 300px;
+  height: auto;
+}
+
+.para {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: slategrey;
+  font-weight: 600;
+  background-color: antiquewhite;
+}
+
+.ol {
+  background-color: beige;
+  color: brown;
+  font-weight: bold;
+}
+
+.ul {
+  background-color: #b2c4e6;
+  text-align: center;
+  color: red;
 }
